@@ -1,2 +1,2 @@
-# calculo_imc
+# Cálculo de IMC
 Introdução ao Python
